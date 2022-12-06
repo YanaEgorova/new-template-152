@@ -141,7 +141,7 @@
 .policy__icon-box {
     width: 10rem;
     height: 10rem;
-    background-image: linear-gradient(to right bottom, #fff4ab, #fff090, #ffec73, #ffe854, #ffe42b);
+    background-image: linear-gradient(to right bottom,  var(--fifth-brand-color), var(--second-brand-color));
     border-radius: 50%;
     display: flex;
     align-items: center;
